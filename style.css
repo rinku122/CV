@@ -393,6 +393,10 @@ aside li {
 }
 
 /* --------------------Work-------------------------- */
+.btn {
+  display: block;
+  padding: 0.3rem 0.8rem;
+}
 .grid-2-work {
   display: grid;
   grid-template-columns: 1fr 2fr;
